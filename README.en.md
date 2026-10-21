@@ -133,7 +133,7 @@ Use the separate [GulfGate Country Analysis](https://github.com/origami352190503
 
 This project was jointly created by [@origami3521905038-hash](https://github.com/origami3521905038-hash) and [@18719203981lkr-spec](https://github.com/18719203981lkr-spec).
 
-Contributions are welcome through issues and pull requests. See [CONTRIBUTING.md](CONTRIBUTING.md).
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full attribution record. Contributions are welcome through issues and pull requests. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 

@@ -126,7 +126,7 @@ cp -R gulfgate-country-training ~/.codex/skills/
 
 أُنجز هذا المشروع بالتعاون بين [@origami3521905038-hash](https://github.com/origami3521905038-hash) و[@18719203981lkr-spec](https://github.com/18719203981lkr-spec).
 
-نرحب بالمساهمات عبر Issues وPull Requests. راجع [CONTRIBUTING.md](CONTRIBUTING.md).
+راجع [CONTRIBUTORS.md](CONTRIBUTORS.md) لسجل الإسناد الكامل. نرحب بالمساهمات عبر Issues وPull Requests. راجع [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## الترخيص
 
