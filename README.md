@@ -1,6 +1,6 @@
 # GulfGate 海湾之门 · 出海判断力训练助手
 
-[简体中文](README.md) · [English](README.en.md) · [العربية](README.ar.md)
+<p><a href="README.md"><u>简体中文</u></a> · <a href="README.en.md"><u>English</u></a> · <a href="README.ar.md"><u>العربية</u></a></p>
 
 <div align="center">
   <img src="docs/images/hero-training.png" alt="GulfGate Country Training Skill hero" width="100%">

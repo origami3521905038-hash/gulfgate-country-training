@@ -39,7 +39,9 @@ def check_links() -> int:
         if not path.is_file() or path.suffix.lower() not in {".md", ".txt", ".html"}:
             continue
         text = path.read_text(encoding="utf-8-sig", errors="replace")
-        for target in re.findall(r"\[[^\]]*\]\(([^)]+)\)", text):
+        targets = re.findall(r"\[[^\]]*\]\(([^)]+)\)", text)
+        targets += re.findall(r"""href=["']([^"']+)["']""", text)
+        for target in targets:
             if target.startswith(("http://", "https://", "#", "mailto:")):
                 continue
             target = target.split("#", 1)[0].split("?", 1)[0]
