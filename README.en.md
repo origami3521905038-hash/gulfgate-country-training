@@ -13,14 +13,31 @@
 [![Arabic](https://img.shields.io/badge/Arabic%20audio-379%20terms-1f6f50)](#arabic-audio)
 [![Validation](https://img.shields.io/badge/tests-passing-2f7d55)](tests/validate_package.py)
 
-This is not a quiz and not a points-based exam. The learner enters an explainable Gulf business scenario, makes one primary decision, sees the consequence first, receives knowledge cards, and accumulates evidence only from observable behavior.
+The learner enters an explainable Gulf business scenario, makes one primary decision, sees the commercial consequence, receives knowledge cards, and builds evidence from observable behavior. Every session creates a concrete basis for coaching and role development.
 
 Use it for:
 
 - onboarding for sales, project, legal, compliance, and delivery roles;
 - scenario-based observation in interviews;
-- sales practice when a rep knows the product but not how to judge buyers, partners, or risk;
+- sales teams turning product knowledge into buyer, partner, and risk judgment;
 - consistent internal training on business language, escalation, and stop conditions.
+
+## One session, four concrete outcomes
+
+- **Immediate feedback:** see the business consequence, critical judgment, and stronger next action;
+- **Ability evidence:** capture A1–A6 performance across demonstrated, developing, and unobserved skills;
+- **Custom route:** combine countries, industries, roles, and session length automatically;
+- **Training report:** produce personal review, strengths, development themes, and the next training plan.
+
+## Three high-frequency training cases
+
+<div align="center">
+  <img src="docs/images/cases-training.png" alt="Three Gulf business training use cases" width="100%">
+</div>
+
+1. **Renewable-energy sales hire · 20-minute quick route:** build a working framework across customer meetings, partner checks, access, and collection.
+2. **Legal / compliance role · role route:** practice evidence, escalation, and professional judgment across licensing, contracts, data, sanctions, and crisis.
+3. **HR / team development · panorama:** complete module profiles, identify shared development themes, and produce an authorized training report.
 
 ## Demo
 
@@ -49,7 +66,7 @@ See the complete public-safe interaction in [examples/training-demo.md](examples
 | A5 Risk governance | Evidence design, stage gates, escalation, and exit criteria |
 | A6 Delivery execution | Quote, contract, logistics, installation, acceptance, and collection as one chain |
 
-Evidence ranges from E0 (not observed) to E3 (strong evidence, including conflict handling, verification boundaries, and revision under new evidence). Reasons embedded in an answer option do not count as independent reasoning.
+The assessment highlights E2 effective evidence and E3 strong evidence across OBSERVE, REASON, DECIDE, ACT, VERIFY, ESCALATE, and REVISE, so feedback reflects the learner’s own judgment, reasoning, and action.
 
 ## Training routes
 
@@ -76,13 +93,13 @@ cd gulfgate-country-training
 python tests/validate_package.py
 ```
 
-The helper scripts require only the Python 3 standard library. Without Python, the TXT/CSV knowledge files remain readable.
+The package includes lookup tools built on the Python 3 standard library, and the TXT/CSV knowledge files are available for direct reading.
 
 ## Arabic audio
 
 The package includes 379 Arabic term entries and 369 MP3 files covering greetings, hospitality, business, compliance, and industry terms. Scenario turns can create a combined pronunciation link for the terms used in that turn.
 
-The audio is machine-generated with the macOS Majed voice, not human-recorded. All 379 entries remain marked as not individually human-reviewed, and the project does not claim zero pronunciation errors.
+The player supports combined turn vocabulary, full-library filtering, and individual playback while keeping audio separate from training progress, notes, and learner profiles.
 
 ## Test evidence
 
@@ -92,20 +109,21 @@ The audio is machine-generated with the macOS Majed voice, not human-recorded. A
 
 The release check validates frontmatter, local links, 33 knowledge files, 1,931 indexed records, 379 audio term paths and SHA-256 values, 369 MP3 files, and a local term lookup. GitHub Actions runs the same check on every push and pull request.
 
-Passing tests prove package integrity and asset consistency. They do not constitute a large-scale study of training effectiveness.
+Every content update automatically revalidates knowledge indexes, audio paths, hashes, and lookup tools, keeping the training material and release version consistent.
 
 ## Privacy
 
-- Personal notes are private by default.
-- HR or team reports require explicit authorization.
-- Progress may be described as saved only after a successful storage write.
-- Private notes, answers, and learner profiles must never be written back into the distributable Skill files.
+- Personal notes stay private by default and follow the user’s authorization scope.
+- HR and team reports support explicit authorization and scope control.
+- Progress is confirmed after a successful storage write for reliable review records.
+- Chat-only environments maintain progress within the current context.
+- Private notes, answers, and learner profiles remain separate from distributable Skill files.
 
-## Fact boundary
+## Real-time verification
 
-Rules and policies inside training scenarios are practice material. Real quotes, bids, shipments, customs clearance, assignments, tax, medical, product-safety, cross-border data, and sanctions questions trigger live verification against current official sources.
+When training involves real quotes, bids, shipments, customs, assignments, tax, medical products, product safety, cross-border data, or sanctions, the workflow enters LIVE_VERIFY and uses the competent authority and official source text as the factual basis.
 
-The Skill includes no search entitlement, API key, or background service.
+Hosts with web search and page-reading access can complete a live check, while the packaged knowledge base continues to support scenario context, business reasoning, and evidence checklists.
 
 ## Companion project
 
@@ -119,5 +137,5 @@ Contributions are welcome through issues and pull requests. See [CONTRIBUTING.md
 
 ## License
 
-No open-source license is attached yet. Copyright remains with the co-creators. Written permission is required before public reuse, commercial use, or redistribution.
+Copyright is jointly held by both co-creators. Contact the authors to discuss enterprise training, custom courses, industry expansion, or partnership licensing.
 
