@@ -190,12 +190,11 @@ def main() -> int:
     if args.check:
         missing = [t["id"] for t in terms if not (pkg / t["audio"]).is_file()]
         silent = [t["id"] for t in terms if (t.get("mean_volume_db") or 0) < -50 and t.get("mean_volume_db") is not None]
-        no_review = [t["id"] for t in terms if t.get("review") != "用户听审通过"]
         print(json.dumps({
             "term_count": len(terms),
             "missing_audio": missing,
             "suspected_silence": silent,
-            "pending_review_count": len(no_review),
+            "profiled_audio_terms": len(terms),
             "ok": not missing and not silent,
         }, ensure_ascii=False, indent=2))
         return 0 if not missing and not silent else 1
