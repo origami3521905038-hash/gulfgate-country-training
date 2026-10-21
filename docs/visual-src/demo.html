@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing:border-box; }
+  html, body { margin:0; width:1440px; height:900px; overflow:hidden; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif; color:#17352a; background:#eee8da; }
+  body::before { content:""; position:fixed; inset:0; opacity:.45; background-image:radial-gradient(#9eac9f 1px,transparent 1px); background-size:26px 26px; }
+  .frame { position:relative; width:1320px; height:780px; margin:60px auto; border-radius:26px; overflow:hidden; background:#f8f5ed; border:1px solid rgba(31,70,53,.1); box-shadow:0 38px 90px rgba(33,45,35,.18); }
+  header { height:84px; display:flex; align-items:center; justify-content:space-between; padding:0 36px; color:#f8f1e1; background:#12362a; }
+  .brand { display:flex; gap:13px; align-items:center; font-weight:750; } .logo { width:34px;height:34px;border-radius:10px;background:#d8a95d;color:#17352a;display:grid;place-items:center;font:800 18px/1 Georgia,serif; }
+  .crumb { color:rgba(248,241,225,.56); font-size:11px; letter-spacing:.13em; text-transform:uppercase; }
+  .main { display:grid; grid-template-columns:1fr 410px; height:calc(100% - 84px); }
+  .chat { padding:31px 36px; overflow:hidden; }
+  .label { color:#9a703b; font-size:10px; font-weight:800; letter-spacing:.16em; text-transform:uppercase; }
+  .message { margin-top:14px; max-width:760px; padding:19px 21px; border-radius:17px; font-size:13px; line-height:1.72; }
+  .agent { background:white; border:1px solid #ded7c8; box-shadow:0 7px 24px rgba(37,49,38,.05); }
+  .user { margin-left:auto; width:590px; background:#1b4938; color:#eef4eb; }
+  .station { margin-top:22px; padding:19px 21px; border-radius:16px; background:#f0e5d0; border:1px solid #dec9a4; }
+  .station b { font:600 20px/1.35 Georgia,"Songti SC",serif; } .station p { margin:6px 0 0; color:#6c7068; font-size:12px; line-height:1.55; }
+  .choice-row { display:flex; gap:10px; margin-top:12px; }
+  .choice { flex:1; padding:13px; border-radius:12px; background:rgba(255,255,255,.65); border:1px solid #d9d0bf; font-size:11.5px; line-height:1.45; }
+  .choice.selected { background:#dfeee6; border-color:#8eb9a4; color:#24543e; }
+  .consequence { margin-top:20px; display:grid; grid-template-columns:1fr 1fr; gap:13px; }
+  .mini { padding:16px; border-radius:14px; border:1px solid #ded7c8; background:white; }
+  .mini b { display:block; color:#2a5b46; font-size:12px; } .mini p { margin:7px 0 0; color:#68756e; font-size:11.5px; line-height:1.58; }
+  aside { padding:29px 26px; border-left:1px solid #ddd6c8; background:#f2eee5; }
+  .avatar { width:50px;height:50px;border-radius:16px;display:grid;place-items:center;background:#173e2f;color:#f1d59f;font:600 23px/1 Georgia,serif; }
+  .coach { margin-top:12px; font-size:16px; font-weight:750; } .sub { margin-top:4px; color:#7f877f; font-size:11px; }
+  .meter { margin-top:28px; } .meter-head { display:flex; justify-content:space-between; font-size:11px; color:#58675f; } .track { height:7px; margin-top:8px; border-radius:99px; background:#d8d3c8; overflow:hidden; } .fill { width:68%; height:100%; border-radius:99px; background:linear-gradient(90deg,#2c7053,#8caf75); }
+  .evidence { margin-top:27px; padding:18px; border-radius:16px; background:#e4efe8; border:1px solid #bdd5c7; }
+  .evidence b { color:#265d45; font-size:12px; } .evidence p { margin:8px 0 0; color:#5d7066; font-size:11.5px; line-height:1.6; }
+  .tags { display:flex; gap:7px; flex-wrap:wrap; margin-top:12px; } .tag { padding:6px 8px; border-radius:999px; background:#d3e5da; color:#315e49; font-size:10px; font-weight:700; }
+  .next { margin-top:22px; padding-top:18px; border-top:1px solid #d8d1c3; color:#66746c; font-size:11.5px; line-height:1.6; }
+  footer { position:absolute;left:31px;bottom:16px;color:#8b8a81;font-size:10px;letter-spacing:.1em;text-transform:uppercase; }
+</style>
+</head>
+<body>
+  <div class="frame">
+    <header><div class="brand"><span class="logo">G</span> GulfGate · Country Training</div><div class="crumb">Demo session / quick route / P07</div></header>
+    <div class="main">
+      <section class="chat">
+        <div class="label">01 · 用户建档与选择</div>
+        <div class="message user">我是新能源出海销售新人，重点看沙特和阿联酋。想练伙伴判断、产品准入和回款风险。</div>
+        <div class="label" style="margin-top:23px">02 · 老陈把判断放进真实压力里</div>
+        <div class="message agent">对方说：“我们在全国都有关系，可以负责进口、安装和回款。先把区域独家给我们，三个月肯定起量。”</div>
+        <div class="station"><b>这站要判断：这句承诺现在能支撑什么动作？</b><p>会面很热情，但还没有牌照、项目、团队和售后记录。</p></div>
+        <div class="choice-row">
+          <div class="choice">A. 先签意向，用独家换投入</div>
+          <div class="choice selected">B. 按进口、技术、售后、财务分项取证</div>
+          <div class="choice">C. 暂时没有订单，停止接触</div>
+        </div>
+        <div class="consequence">
+          <div class="mini"><b>先演后果</b><p>对方发来宣传册与合影，但说不清谁是 importer of record，也没有技术人员和响应记录。</p></div>
+          <div class="mini"><b>这站带走什么</b><p>关系可以打开入口，但授权、责任和履约能力必须分别取证。</p></div>
+        </div>
+      </section>
+      <aside>
+        <div class="avatar">陈</div><div class="coach">老陈</div><div class="sub">资深海湾业务同行 · 不是答案机器</div>
+        <div class="meter"><div class="meter-head"><span>快速路线</span><span>3 / 7</span></div><div class="track"><div class="fill"></div></div></div>
+        <div class="evidence"><b>本轮行为证据</b><p>主动区分牌照、进口责任、技术团队、售后与财务信息，没有把热情直接当成履约能力。</p><div class="tags"><span class="tag">A3 准入判断</span><span class="tag">A5 风险治理</span><span class="tag">E2 候选</span></div></div>
+        <div class="next"><b>下一站 → P17</b><br>判断国家准入与规则有效性：先核对国家、法域、产品范围、版本和本次核验状态。</div>
+      </aside>
+    </div>
+    <footer>Illustrative training output · no real client or personal data</footer>
+  </div>
+</body>
+</html>
+

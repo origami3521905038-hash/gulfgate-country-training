@@ -1,0 +1,510 @@
+GulfGate（海湾之门）｜官方来源白名单与核验登记
+内容整理日期：2026-09-08
+用途：LIVE_VERIFY 的优先官方入口。按国家与事务主题先匹配本表；条目缺失、URL 失效、内容过时或不充分，或高风险事项需要交叉核验时，继续寻找其他官方来源。
+调用说明：下方日期与 active_page 是知识库登记信息，应按待复核入口使用，不能视为本轮事实已经验证。历史日期只能标为“知识库登记日期”，不得冒充“本次核验日期”。
+
+事实边界：训练资料与框架不等于已核验事实；可变或高风险结论必须核对官方来源、文件状态、适用范围和本次核验日期。
+
+[INT_METHOD] INTERNAL｜GulfGate（海湾之门） 产品团队｜训练方法
+标题：知识卡、能力证据与核验边界
+URL：internal://gulf-gate/method
+来源级别：T0_internal_method；版本状态：draft；易变：false
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：训练设计，不构成外部事实
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[GCC_GSO_GCTS] GCC｜GCC Standardization Organization｜区域符合性
+标题：GSO Conformity Tracking System customs guidance
+URL：https://www.gso.org.sa/wp-content/uploads/2021/04/Guidance-for-customs-and-market-surveillance-inspectors-.pdf
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：仅适用于相应海湾技术法规及纳入范围的产品
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[SA_MISA_FAQ] SA｜Ministry of Investment｜外资进入
+标题：Frequently Asked Questions
+URL：https://misa.gov.sa/frequently-asked-questions/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[SA_MISA_LAWS] SA｜Ministry of Investment｜投资法规
+标题：Laws and Regulations
+URL：https://misa.gov.sa/activities/laws-regulations-copy/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[SA_ZATCA_IMPORT] SA｜Zakat, Tax and Customs Authority｜进口清关
+标题：Import Instructions
+URL：https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-bussiness/import-pages/Import-Instructions.aspx
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[SA_ZATCA_TARIFF] SA｜Zakat, Tax and Customs Authority｜税费
+标题：Integrated Tariffs
+URL：https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/Integrated-Tarrifs.aspx
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[SA_SASO_SABER] SA｜Saudi Standards, Metrology and Quality Organization｜产品符合性
+标题：Registration of a product conformity certificate
+URL：https://www.saso.gov.sa/en/eservices/pages/maineservicesdetails.aspx?serviceid=396
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[SA_CST] SA｜Communications, Space & Technology Commission｜通信设备
+标题：CST official portal
+URL：https://www.cst.gov.sa/en/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[SA_SFDA_MD] SA｜Saudi Food and Drug Authority｜医疗器械
+标题：Guidance for licensing medical-device establishments
+URL：https://sfda.gov.sa/sites/default/files/2024-08/GuidanceProceduresLicensingMedicalDevicesSuppliesEstablishments.pdf
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[SA_ETIMAD] SA｜Etimad｜政府采购
+标题：Etimad government procurement portal
+URL：https://portal.etimad.sa/en-us
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[SA_PDPL] SA｜Saudi Data & AI Authority｜个人数据
+标题：Personal Data Protection portal
+URL：https://dgp.sdaia.gov.sa/wps/portal/pdp/home
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[SA_HRSD] SA｜Ministry of Human Resources and Social Development｜劳动与本地化
+标题：MHRSD official portal
+URL：https://www.hrsd.gov.sa/en
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[AE_BUSINESS] AE｜UAE Government｜企业设立
+标题：Starting a business in the UAE mainland
+URL：https://u.ae/en/information-and-services/business/doing-business-on-the-mainland/starting-a-business-in-the-mainland
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[AE_CUSTOMS] AE｜UAE Government｜进口清关
+标题：Clearing customs and paying customs duty
+URL：https://u.ae/en/information-and-services/finance-and-investment/clearing-the-customs-and-paying-customs-duty
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[AE_FTA_VAT] AE｜Federal Tax Authority｜增值税
+标题：Registration for VAT
+URL：https://www.tax.gov.ae/en/taxes/Vat/vat.topics/registration.for.vat.aspx
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[AE_MOIAT_ECAS] AE｜Ministry of Industry and Advanced Technology｜产品符合性
+标题：Issue conformity certificates for regulated products
+URL：https://qc.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[AE_TDRA_TA] AE｜Telecommunications and Digital Government Regulatory Authority｜通信设备
+标题：Register and approve telecommunication equipment
+URL：https://tdra.gov.ae/en/Services/register-and-approve-telecommunication-equipment
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[AE_MOHAP_MD] AE｜Ministry of Health and Prevention｜医疗器械
+标题：Registration of medical equipment
+URL：https://mohap.gov.ae/documents/20117/0/Registration%2Bof%2Ba%2BMedical%2BEquipment%2B_%2BMinistry%2Bof%2BHealth%2Band%2BPrevention%2B-%2BUAE.pdf/f1021c2e-8552-1b24-d7f6-5cf11f0666ad?t=1746081184203
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[AE_PDPL] AE｜UAE Legislation｜个人数据
+标题：Federal Decree-Law on the Protection of Personal Data
+URL：https://uaelegislation.gov.ae/en/legislations/1972/download
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[AE_MOHRE] AE｜Ministry of Human Resources and Emiratisation｜劳动与本地化
+标题：MOHRE official portal
+URL：https://mohre.gov.ae/en/home
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[QA_MOCI_INVEST] QA｜Ministry of Commerce and Industry｜外资进入
+标题：Questions relating to foreign-investment companies
+URL：https://www.moci.gov.qa/en/our-services/investor/commerce-faq/questions-relating-to-foreign-investment-companies/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[QA_MOCI_PROCEDURES] QA｜Ministry of Commerce and Industry｜企业设立
+标题：Investor procedures
+URL：https://www.moci.gov.qa/en/our-services/investor/procedures/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[QA_CUSTOMS_IMPORT] QA｜General Authority of Customs｜进口清关
+标题：Commercial import procedures
+URL：https://www.customs.gov.qa/English/Procedures/UnifiedGuide/Pages/Importation.aspx
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[QA_CUSTOMS_RESTRICTED] QA｜General Authority of Customs｜受限商品
+标题：Restricted goods by HS code
+URL：https://www.customs.gov.qa/English/Tariff/Pages/Restricted-Goods.aspx
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[QA_GTA_TAX] QA｜General Tax Authority｜所得税
+标题：Tax laws
+URL：https://www.gta.gov.qa/en/laws
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：卡塔尔来源收入及法律页面所列主体；个案需税务复核
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[QA_CRA_TA] QA｜Communications Regulatory Authority｜通信设备
+标题：E-Spectrum and type approval
+URL：https://s-spectrum.cra.gov.qa/cra/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[QA_PROCUREMENT] QA｜Ministry of Finance｜政府采购
+标题：Monaqasat procurement portal
+URL：https://monaqasat.mof.gov.qa/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[QA_MOPH_IMD] QA｜Ministry of Public Health｜植入式医疗器械
+标题：Registration of implantable medical devices FAQ
+URL：https://www.moph.gov.qa/_layouts/15/download.aspx?SourceUrl=%2FAdmin%2FLists%2FAnnouncements+Attachments%2FAttachments%2F180%2FRegistration+of+IMDs+-+Frequently+Asked+Questions.pdf
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：植入式医疗器械；不得外推为全部医疗器械
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[QA_MOCI_ECOM] QA｜Ministry of Commerce and Industry｜电子商务
+标题：Digital platforms and delivery-sector guideline
+URL：https://www.moci.gov.qa/en/moci-news/single-news/?id=489
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：2026；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[QA_MOCI_CONSUMER] QA｜Ministry of Commerce and Industry｜消费者保护
+标题：Consumer protection and combating commercial fraud
+URL：https://www.moci.gov.qa/en/about-the-ministry/departments/departments-under-the-assistant-deputy-of-consumer-affairs/the-consumer-protection-and-combating-commercial-fraud/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[QA_MOL] QA｜Ministry of Labour｜工作许可
+标题：Work-permit service guidance
+URL：https://www.mol.gov.qa/admin/EServices/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84%20%D9%84%D9%84%D8%AE%D8%AF%D9%85%D8%A9%20-%20%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%20%D8%A7%D9%84%D8%B9%D9%85%D9%84.pdf
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[KW_KDIPA_LICENSE] KW｜Kuwait Direct Investment Promotion Authority｜外资进入
+标题：Investment licensing procedures
+URL：https://kdipa.gov.kw/investors-service-center/investment-licensing-procedures/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[KW_KDIPA_LAW] KW｜Kuwait Direct Investment Promotion Authority｜投资法规
+标题：Foreign direct-investment law
+URL：https://kdipa.gov.kw/jun-17-2013/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[KW_MOCI] KW｜Ministry of Commerce and Industry｜企业服务
+标题：MOCI e-services
+URL：https://moci.gov.kw/en/e-services/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[KW_CUSTOMS_IMPORT] KW｜General Administration of Customs｜进口清关
+标题：Commercial import procedure
+URL：https://customs.gov.kw/Content/ProcedureGuide/Dalil-0101_new.htm
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[KW_PAI_TABEK] KW｜Public Authority for Industry｜产品符合性
+标题：TABEK and KUCAS
+URL：https://ksm.pai.gov.kw/sites/cm/en/Pages/AboutTabek.aspx
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[KW_CITRA_TA] KW｜Communication and Information Technology Regulatory Authority｜通信设备
+标题：Type approval
+URL：https://www.citra.gov.kw/sites/en/Pages/CategoriesParagraphs/AdoptingQuality.aspx
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[KW_CITRA_PRIVACY] KW｜Communication and Information Technology Regulatory Authority｜个人数据
+标题：2024 data-privacy regulation decision
+URL：https://www.citra.gov.kw/sites/ar/Pages/DecisionsDetails.aspx?id=6
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：2024；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[KW_CAPT] KW｜Central Agency for Public Tenders｜政府采购
+标题：Tender registration and media centre
+URL：https://capt.gov.kw/ar/intranet/media/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[KW_MOF_TAX] KW｜Ministry of Finance｜所得税
+标题：Income-tax law
+URL：https://mof.gov.kw/Desicions/Decree/PDF/Q3_1955e.pdf
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：外国法人等法律所列主体；个案需税务复核
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[KW_MOF_DMTT] KW｜Ministry of Finance｜跨国企业最低税
+标题：Domestic minimum top-up tax introduction
+URL：https://www.mof.gov.kw/MOFServices/DMTTIntroduction.aspx
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：符合门槛的跨国企业集团；不得外推至普通中小企业
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[KW_MOH_MDV] KW｜Ministry of Health｜医疗器械警戒
+标题：Medical-device incident reporting form
+URL：https://www.moh.gov.kw/UserRefs/DrugFoodControl/MDV%20IRIS%20.pdf
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：医疗器械不良事件/警戒；详细注册路径需实时核验
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[BH_MOIC_SIJILAT] BH｜Ministry of Industry and Commerce｜企业设立
+标题：Sijilat commercial registration portal
+URL：https://www.moic.gov.bh/en/node/2724
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[BH_NBR_VAT] BH｜National Bureau for Revenue｜增值税
+标题：VAT treatments and policies
+URL：https://www.nbr.gov.bh/VAT/vat_treatments_and_policies
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[BH_MOIC_STANDARDS] BH｜Ministry of Industry and Commerce｜标准与符合性
+标题：Standards store
+URL：https://moic.gov.bh/en/node/2720
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[BH_OFOQ] BH｜Bahrain Government｜受监管产品清关
+标题：Clearance of regulated products through OFOQ
+URL：https://www.bahrain.bh/wps/portal/en/BNP/ServicesCatalogue/GSX-UI-PServiceDetails?psID=3165
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[BH_TRA_TA] BH｜Telecommunications Regulatory Authority｜通信设备
+标题：Apply for type approval
+URL：https://www.tra.org.bh/en/category/apply-for-type-approval
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[BH_NHRA_MD] BH｜National Health Regulatory Authority｜医疗器械
+标题：Medical-device registration
+URL：https://www.nhra.bh/Departments/MDR/Registration/Medical%20Device/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[BH_NHRA_PMS] BH｜National Health Regulatory Authority｜医疗器械上市后
+标题：Medical-device general guidelines
+URL：https://www.nhra.bh/Departments/MDR/Regulations/Guidelines/General%20Guidelines/General%20Guidelines.aspx
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[BH_TENDER] BH｜Tender Board｜政府采购
+标题：Supplier registration FAQ
+URL：https://www.tenderboard.gov.bh/FAQ/SupplierFAQ/SQ53.aspx
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[BH_LMRA] BH｜Labour Market Regulatory Authority｜工作许可
+标题：Labour-market regulation law
+URL：https://lmra.gov.bh/files/cms/shared/file/law-no19-year2006-english.pdf
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[BH_EFADA] BH｜Ministry of Industry and Commerce｜电子商务
+标题：eFada e-commerce seal application
+URL：https://www.moic.gov.bh/sites/default/files/2024-02/%D9%86%D8%B8%D8%A7%D9%85%20%D8%AE%D8%AA%D9%85%20%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9%20%28%D8%A5%D9%81%D8%A7%D8%AF%D8%A9%29%20_%20%D8%AE%D8%B7%D9%88%D8%A7%D8%AA%20%D8%AA%D9%82%D8%AF%D9%8A%D9%85%20%D8%A7%D9%84%D8%B7%D9%84%D8%A8%20-%20English-1.pdf
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[OM_MOCIIP] OM｜Ministry of Commerce, Industry and Investment Promotion｜企业与投资
+标题：MOCIIP official service page
+URL：https://gov.om/en/ministry-of-commerce-industry-and-investment-promotion
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[OM_TAX_RATES] OM｜Tax Authority｜税率
+标题：Tax rates
+URL：https://tms.taxoman.gov.om/portal/tax-rate
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：页面所列税种和纳税主体；个案需税务复核
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[OM_TAX_ECOM] OM｜Tax Authority｜电子商务税务
+标题：VAT taxpayer guide: electronic commerce
+URL：https://taxoman.gov.om/portal/documents/20126/1414820/VAT%2BTaxpayer%2BGuide%2B%28Electronic%2BCommerce%29.pdf/70d52b04-4177-2fe8-2d1c-836d6d831466?t=1733169614944
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[OM_CUSTOMS_PERMITS] OM｜Royal Oman Police Customs｜进口许可
+标题：Customs permit directory
+URL：https://www.customs.gov.om/en/business-services/permit/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[OM_CUSTOMS_BAYAN] OM｜Royal Oman Police Customs｜清关
+标题：Bayan procedural services
+URL：https://www.customs.gov.om/en/business-services/procedural_services/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[OM_TRA_TA] OM｜Telecommunications Regulatory Authority｜通信设备
+标题：Type-approval device regulations
+URL：https://www.tra.gov.om/spectrum/type-approval/device-regulations
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[OM_MOH_MD] OM｜Ministry of Health｜医疗器械
+标题：Request for registration of a medical device
+URL：https://moh.gov.om/en/services/businesses/drug-safety-center/request-for-registration-of-medical-device/
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[OM_TENDER] OM｜Tender Board｜政府采购
+标题：eTendering registration
+URL：https://etendering.tenderboard.gov.om/product/registerUser?CTRL_STRDIRECTION=RTL
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[OM_PDPL] OM｜Ministry of Transport, Communications and Information Technology｜个人数据
+标题：Executive regulations of the Personal Data Protection Law
+URL：https://www.mtcit.gov.om/library-3/legislations-policies-8/regulations-72/executive-regulations-of-the-personal-data-protection-law-1035
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[OM_CPA] OM｜Consumer Protection Authority｜消费者保护
+标题：Consumer Protection Law
+URL：https://cpa.gov.om/Documents/Laws/ENG-new-Consumer-Protection-Law.pdf
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。
+
+[OM_MOL] OM｜Ministry of Labour｜劳动与本地化
+标题：Ministry of Labour official portal
+URL：https://www.mol.gov.om/home
+来源级别：T1_official；版本状态：active_page；易变：true
+发布日期：页面未明确登记；核验日期：2026-09-08
+适用范围：以页面当前明示范围为准
+使用规则：调用时仍须核对适用主体、产品/活动、法域、版本和生效状态；不得把主管机关入口等同于个案批准。

@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; width: 1440px; height: 760px; overflow: hidden; }
+  body { color: #f8f1e2; font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", sans-serif; background: radial-gradient(circle at 80% 20%, rgba(218,168,91,.28), transparent 28%), radial-gradient(circle at 10% 85%, rgba(55,110,86,.34), transparent 30%), linear-gradient(135deg,#081811,#12392b 54%,#172b22); position: relative; }
+  body::before { content:""; position:absolute; inset:0; opacity:.2; background-image: linear-gradient(115deg, transparent 0 48%, rgba(247,236,210,.14) 49% 50%, transparent 51%); background-size: 74px 74px; mask-image: linear-gradient(90deg,black,transparent 82%); }
+  .shell { position: relative; height: 100%; display:grid; grid-template-columns:1.02fr .98fr; padding:64px 72px; }
+  .eyebrow { display:inline-flex; align-items:center; gap:12px; color:#e5b86d; font-size:15px; font-weight:750; letter-spacing:.15em; text-transform:uppercase; }
+  .eyebrow::before { content:""; width:36px; height:2px; background:#e5b86d; }
+  h1 { margin:28px 0 4px; font:600 86px/.96 Georgia,"Songti SC",serif; letter-spacing:-.045em; }
+  h2 { margin:16px 0 0; font-size:38px; line-height:1.18; letter-spacing:-.03em; }
+  p { width:630px; margin:26px 0 0; color:rgba(248,241,226,.74); font-size:21px; line-height:1.72; }
+  .numbers { display:flex; gap:13px; margin-top:36px; }
+  .n { min-width:128px; padding:15px 18px; border:1px solid rgba(247,236,210,.16); border-radius:15px; background:rgba(255,255,255,.05); }
+  .n b { display:block; font:600 29px/1 Georgia,serif; color:#ffd79a; } .n span { display:block; margin-top:8px; color:rgba(248,241,226,.56); font-size:11px; letter-spacing:.08em; text-transform:uppercase; }
+  .right { position:relative; display:flex; justify-content:center; align-items:center; }
+  .ring { position:absolute; width:510px; height:510px; border-radius:50%; border:1px solid rgba(226,180,107,.18); }
+  .ring::before { content:""; position:absolute; inset:48px; border-radius:50%; border:1px dashed rgba(226,180,107,.2); }
+  .phone { width:405px; height:585px; border-radius:42px; padding:14px; background:#07130e; border:1px solid rgba(255,255,255,.18); box-shadow:0 35px 90px rgba(0,0,0,.42); transform:rotate(2.3deg); }
+  .screen { height:100%; border-radius:30px; padding:24px 22px; background:linear-gradient(180deg,#f9f4e9,#eee4d1); color:#17352a; overflow:hidden; }
+  .screen-top { display:flex; align-items:center; justify-content:space-between; }
+  .avatar { width:44px; height:44px; border-radius:14px; display:grid; place-items:center; color:#f6e6c5; background:#1b4938; font:600 21px/1 Georgia,serif; }
+  .online { font-size:11px; color:#537064; }
+  .route { margin-top:26px; font-size:10px; font-weight:800; letter-spacing:.15em; color:#a1743d; }
+  .title { margin-top:10px; font:600 27px/1.2 Georgia,"Songti SC",serif; }
+  .meta { margin-top:9px; font-size:11px; color:#76827b; }
+  .scenario { margin-top:18px; padding:17px; border-radius:15px; background:white; border:1px solid #ded4c1; font-size:13px; line-height:1.65; color:#40554b; }
+  .question { margin-top:18px; font-size:13px; font-weight:750; }
+  .option { margin-top:10px; padding:12px 13px; border:1px solid #d7cfbf; border-radius:11px; background:rgba(255,255,255,.56); font-size:11.5px; line-height:1.42; }
+  .option.active { background:#e1eee7; border-color:#91bba6; color:#24553f; }
+  .footer { position:absolute; left:47px; bottom:34px; color:rgba(248,241,226,.3); font-size:11px; font-weight:750; letter-spacing:.15em; text-transform:uppercase; }
+</style>
+</head>
+<body>
+  <main class="shell">
+    <section>
+      <div class="eyebrow">Agent Skill · Practice before the pitch</div>
+      <h1>GulfGate</h1>
+      <h2>海湾之门 · 出海判断力训练助手</h2>
+      <p>让出海新人先在安全场景里做判断、看后果，再带着可追溯的行为证据上岗。不是刷题，而是练“什么时候推进、什么时候补证、什么时候停”。</p>
+      <div class="numbers">
+        <div class="n"><b>7</b><span>modules</span></div>
+        <div class="n"><b>38</b><span>scenarios</span></div>
+        <div class="n"><b>6</b><span>abilities</span></div>
+        <div class="n"><b>379</b><span>Arabic terms</span></div>
+      </div>
+      <div class="footer">Public-safe onboarding demo · 2026</div>
+    </section>
+    <section class="right">
+      <div class="ring"></div>
+      <div class="phone"><div class="screen">
+        <div class="screen-top"><div class="avatar">陈</div><div class="online">老陈 · 在线</div></div>
+        <div class="route">P07 · M2 商业生态 / 伙伴判断</div>
+        <div class="title">“三个月肯定起量”</div>
+        <div class="meta">阿联酋 · 新能源设备 / 经销出口</div>
+        <div class="scenario">对方说可以负责进口、安装和回款，但暂时只给了宣传册和几张合影。你还没有项目清单、技术团队和售后记录。</div>
+        <div class="question">现在要怎么推进？</div>
+        <div class="option">A. 用区域独家换取对方先投入</div>
+        <div class="option active">B. 按责任拆分证据，逐项核验</div>
+        <div class="option">C. 没有订单就停止接触</div>
+      </div></div>
+    </section>
+  </main>
+</body>
+</html>
+
