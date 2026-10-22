@@ -131,11 +131,11 @@ Use the separate [GulfGate Country Analysis](https://github.com/origami352190503
 
 ## Co-creators
 
-This project was jointly created by [@origami3521905038-hash](https://github.com/origami3521905038-hash) and [@18719203981lkr-spec](https://github.com/18719203981lkr-spec).
+This project was jointly created by [@origami3521905038-hash](https://github.com/origami3521905038-hash), [@18719203981lkr-spec](https://github.com/18719203981lkr-spec), [@konczgrignani409-blip](https://github.com/konczgrignani409-blip), [@yao132517-byte](https://github.com/yao132517-byte), and [@m17783458051-tutu](https://github.com/m17783458051-tutu).
 
 See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full attribution record. Contributions are welcome through issues and pull requests. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-Copyright is jointly held by both co-creators. Contact the authors to discuss enterprise training, custom courses, industry expansion, or partnership licensing.
+Copyright is jointly held by all five co-creators. Contact the authors to discuss enterprise training, custom courses, industry expansion, or partnership licensing.
 

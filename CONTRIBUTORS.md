@@ -8,7 +8,7 @@
 - [@yao132517-byte](https://github.com/yao132517-byte)
 - [@m17783458051-tutu](https://github.com/m17783458051-tutu)
 
-GulfGate Country Training was jointly designed, developed, reviewed, and prepared for release by both co-creators.
+GulfGate Country Training was jointly designed, developed, reviewed, and prepared for release by all five co-creators.
 
 ## Attribution
 
