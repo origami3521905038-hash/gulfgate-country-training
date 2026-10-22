@@ -6,6 +6,7 @@
 - [@18719203981lkr-spec](https://github.com/18719203981lkr-spec)
 - [@konczgrignani409-blip](https://github.com/konczgrignani409-blip)
 - [@yao132517-byte](https://github.com/yao132517-byte)
+- [@m17783458051-tutu](https://github.com/m17783458051-tutu)
 
 GulfGate Country Training was jointly designed, developed, reviewed, and prepared for release by both co-creators.
 
@@ -17,4 +18,5 @@ GulfGate Country Training was jointly designed, developed, reviewed, and prepare
 | `@18719203981lkr-spec` | GulfGate co-creator |
 | `@konczgrignani409-blip` | GulfGate co-creator |
 | `@yao132517-byte` | GulfGate co-creator |
+| `@m17783458051-tutu` | GulfGate co-creator |
 
